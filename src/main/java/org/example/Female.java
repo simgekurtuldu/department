@@ -1,7 +1,4 @@
 package org.example;
-
-import java.time.LocalDate;
-
 public class Female extends Person{ //Female sınıfı Person sınıfından türetildi.
 
     public Female(String name, String surname, String dateOfBirth){
